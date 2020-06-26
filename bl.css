@@ -1,0 +1,99 @@
+img{
+	padding:0px 20px 20px 20px;
+	margin:-47px -50px 15px -40px;
+	
+	
+}
+header{
+height:110px;
+background-color:#112951;
+padding:20px;
+line-height:50%;
+font-size:20px;
+margin:-20px 40px 10px 20px;
+width:96%;
+}
+.clr{
+	color:#e564d8;
+}
+.prd{
+	font-size:18px;
+	padding:0px;
+	color:#96eadd;
+}
+.adr{
+	font-size:17px;
+	padding:0px;
+	color:#96eadd;
+}
+.one{
+	text-align:left;
+}
+.mm{
+	margin:20px 20px 20px -70px;
+	font-size:20px;
+
+
+}
+div.cc{
+margin:0px 400px 20px -10px;
+
+}
+ div.rr{
+	
+margin:-500px 200px 20px -90px;
+}
+.w3-input{padding:10px;display:block; font-size:15px; border:none;border-bottom:2px solid #ccc;width:170%}
+
+.nv
+{
+	font-size:14px !important;
+	
+}
+.np
+{
+	position:relative;
+	left:800%;
+	float:left;
+    font-size:14px !important;
+
+}
+ul li{
+	font-size:20px;
+	color:#96eadd;
+	list-style-type:none;
+	
+	}
+	.ff{
+		text-align:right;
+		margin:-130px 20px 20px 20px;
+		font-size:20px;
+		line-height:50%;
+		color:#96eadd;
+	
+	}
+	.head{
+		font-size:20px;
+		color:#5ba8ed;
+	}
+	.pdf
+	{
+	background-color: #dc16dc;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin:500px 60px 50px 360px;
+	}
+footer{
+border-left: 3px solid #dda0dd;
+background-color:#112951;
+color:blue;
+height:30%;
+width:100%;
+margin:20px 30px 20px -10px;
+position:absolute;
+top:120%;
+}
